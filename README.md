@@ -4,3 +4,6 @@ Közreműködők:
 - Szilléry Áron
 - Szilléry Egon
 - Bicok Norbert
+
+<br><br><br>
+Szerverek elérése: https://drive.google.com/drive/folders/14gqONwLABPEE0hJtuGQyDnVDgKjRCRkL?usp=sharing
